@@ -16,3 +16,4 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 * :crystal_ball: <a href="https://github.com/theme-next/hexo-filter-optimize" target="_blank">hexo-filter-optimize</a>: A Hexo plugin that optimize the pages loading speed.
 * :triangular_flag_on_post: <a href="https://github.com/stevenjoezhang/hexo-generator-indexed" target="_blank">hexo-generator-indexed</a>: Index generator plugin with more user-defined options.
 * :cake: <a href="https://github.com/jiangtj-lab/hexo-cake-moon-menu" target="_blank">hexo-cake-moon-menu</a>: A new style for back2top button and scrollpercent.
+* :calendar: <a href="https://github.com/theme-next/theme-next-calendar" target="_blank">theme-next-calendar</a>: 一个简洁的hexo-next日历云插件
