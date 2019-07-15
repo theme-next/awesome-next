@@ -22,7 +22,8 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 > See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for details.
 
 * :cake: <a href="https://github.com/jiangtj-lab/hexo-cake-moon-menu" target="_blank">hexo-cake-moon-menu</a>: A new style for back2top button and scrollpercent.
-* :calendar: <a href="https://github.com/theme-next/theme-next-calendar" target="_blank">theme-next-calendar</a>: 一个简洁的hexo-next日历云插件
+* :calendar: <a href="https://github.com/theme-next/theme-next-calendar" target="_blank">theme-next-calendar</a>: 一个简洁的hexo-next日历云插件。
+* :anchor: <a href="https://github.com/1v9/hexo-theme-next-anchor" target="_blank">hexo-theme-next-anchor</a>: A NexT plugin that adds an anchor to every heading.
 
 ## Third-party
 
