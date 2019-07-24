@@ -19,7 +19,8 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 
 ### NexT Plugins
 
-> See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for details.
+> See [inject docs](https://theme-next.org/docs/advanced-settings#Injects) for using `theme_inject`.   
+See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for creating npm package.
 
 * :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
 * :calendar: [theme-next-calendar](https://github.com/theme-next/theme-next-calendar): 一个简洁的hexo-next日历云插件。
