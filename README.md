@@ -25,6 +25,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
 * :calendar: [theme-next-calendar](https://github.com/theme-next/theme-next-calendar): 一个简洁的hexo-next日历云插件。
 * :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
+* :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): A utteranc comment system for NexT. 
 
 ## Third-party
 
