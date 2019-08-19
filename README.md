@@ -26,7 +26,8 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
 * :calendar: [theme-next-calendar](https://github.com/theme-next/theme-next-calendar): 一个简洁的hexo-next日历云插件。
 * :gift: [hexo-next-share](https://github.com/theme-next/hexo-next-share): Content sharing services for NexT.
-* :bookmark: [hexo-next-bookmark](https://github.com/theme-next/hexo-next-bookmark): Bookmark is a plugin that allow the users save their reading progress.
+* :bookmark: [hexo-next-title](https://github.com/theme-next/hexo-next-title): Change to a different title when window is no longer in focus.
+* :boom: [hexo-next-power-mode](https://github.com/theme-next/hexo-next-power-mode): NEXT POWER MODE!!!
 * :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
 * :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): A utteranc comment system for NexT.
 
