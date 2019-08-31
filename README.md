@@ -30,6 +30,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :boom: [hexo-next-power-mode](https://github.com/theme-next/hexo-next-power-mode): NEXT POWER MODE!!!
 * :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
 * :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): A utteranc comment system for NexT.
+* :black_nib: [hexo-next-coauthor](https://github.com/theme-next/hexo-next-coauthor): Add coauthor post meta.
 
 ## Third-party
 
