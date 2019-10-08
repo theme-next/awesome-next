@@ -1,5 +1,7 @@
 # Awesome NexT
 
+[![](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
+
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [Miaia](https://11.tt)
@@ -35,3 +37,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 ## Third-party
 
 * :pencil2: [HexoEditor](https://github.com/zhuzhuyule/HexoEditor): Markdown Editor for Hexo blog.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
