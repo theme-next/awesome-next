@@ -15,6 +15,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 
 ### Hexo Plugins
 
+* :mag_right: [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb): Seach data generator plugin for Hexo.
 * :tada: [hexo-filter-emoji](https://github.com/theme-next/hexo-filter-emoji): GitHub emojis for Hexo!
 * :crystal_ball: [hexo-filter-optimize](https://github.com/theme-next/hexo-filter-optimize): A Hexo plugin that optimize the pages loading speed.
 * :100: [hexo-filter-mathjax](https://github.com/stevenjoezhang/hexo-filter-mathjax): Server side MathJax renderer plugin for Hexo.
@@ -25,14 +26,22 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 > See [inject docs](https://theme-next.org/docs/advanced-settings#Injects) for using `theme_inject`.   
 See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for creating npm package.
 
-* :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
+#### Widgets
+
 * :calendar: [theme-next-calendar](https://github.com/theme-next/theme-next-calendar): 一个简洁的hexo-next日历云插件。
-* :gift: [hexo-next-share](https://github.com/theme-next/hexo-next-share): Content sharing services for NexT.
-* :bookmark: [hexo-next-title](https://github.com/theme-next/hexo-next-title): Change to a different title when window is no longer in focus.
-* :boom: [hexo-next-power-mode](https://github.com/theme-next/hexo-next-power-mode): NEXT POWER MODE!!!
-* :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
 * :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): A utteranc comment system for NexT.
+* :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
+
+#### Fancy stuff
+
+* :boom: [hexo-next-power-mode](https://github.com/theme-next/hexo-next-power-mode): NEXT POWER MODE!!!
+* :bookmark: [hexo-next-title](https://github.com/theme-next/hexo-next-title): Change to a different title when window is no longer in focus.
+* :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
+
+#### Tools for posts
+
 * :black_nib: [hexo-next-coauthor](https://github.com/theme-next/hexo-next-coauthor): Add coauthor post meta.
+* :gift: [hexo-next-share](https://github.com/theme-next/hexo-next-share): Content sharing services for NexT.
 
 ## Third-party
 
