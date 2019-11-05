@@ -37,7 +37,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :boom: [hexo-next-power-mode](https://github.com/theme-next/hexo-next-power-mode): NEXT POWER MODE!!!
 * :bookmark: [hexo-next-title](https://github.com/theme-next/hexo-next-title): Change to a different title when window is no longer in focus.
 * :anchor: [hexo-theme-next-anchor](https://github.com/1v9/hexo-theme-next-anchor): A NexT plugin that adds an anchor to every heading.
-* :first_quarter_moon: [hexo-next-nightmode](https://github.com/1v9/hexo-next-nightmoder): Add Night Mode support for NexT.
+* :first_quarter_moon: [hexo-next-nightmode](https://github.com/1v9/hexo-next-nightmode): Add Night Mode support for NexT.
 
 #### Tools for posts
 
