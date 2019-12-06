@@ -53,6 +53,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 * [处理中英文混排时的引号](https://github.com/theme-next/hexo-theme-next/issues/462#issuecomment-435429592)
 * [Hexo NexT 博客增加知乎豆瓣图标支持](https://blog.dlzhang.com/posts/89dad1c1/)
+* [Hexo NexT主题添加多级相册功能](http://houmin.cc/posts/d487dd02/)
 
 ## License
 
