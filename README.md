@@ -4,8 +4,8 @@
 
 ## Live Preview
 
-* :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [Miaia](https://11.tt)
-* :six_pointed_star: Mist scheme: [uchuhimo](https://uchuhimo.me) | [xirong](http://www.ixirong.com)
+* :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
+* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me) | [xirong](http://www.ixirong.com)
 * :pisces: Pisces scheme: [Vi](https://notes.iissnan.com) | [Acris](https://acris.me) | [Jiaxi He](https://jiaxi.io)
 * :gemini: Gemini scheme: [Ivan.Nginx](https://almostover.ru) | [Raincal](https://raincal.com) | [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org)
 
@@ -23,7 +23,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 
 ### NexT Plugins
 
-> See [inject docs](https://theme-next.org/docs/advanced-settings#Injects) for using `theme_inject`.   
+> See [inject docs](https://theme-next.org/docs/advanced-settings#Injects) for using `theme_inject`.  
 See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for creating npm package.
 
 #### Widgets
