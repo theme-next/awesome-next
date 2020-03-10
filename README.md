@@ -7,7 +7,7 @@
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
 * :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me) | [xirong](http://www.ixirong.com)
 * :pisces: Pisces scheme: [Vi](https://notes.iissnan.com) | [Acris](https://acris.me) | [Jiaxi He](https://jiaxi.io)
-* :gemini: Gemini scheme: [Ivan.Nginx](https://almostover.ru) | [Raincal](https://raincal.com) | [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [Banban](https://blog.dlzhang.com)
+* :gemini: Gemini scheme: [Ivan.Nginx](https://almostover.ru) | [Raincal](https://raincal.com) | [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [Banban](https://blog.dlzhang.com) | [KaitoHH](https://kaitohh.com)
 
 More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/119).
 
@@ -43,6 +43,9 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 * :black_nib: [hexo-next-coauthor](https://github.com/theme-next/hexo-next-coauthor): Add coauthor post meta.
 * :gift: [hexo-next-share](https://github.com/theme-next/hexo-next-share): Content sharing services for NexT.
+
+#### Comment
+* :memo: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
 
 ## Third-party
 
