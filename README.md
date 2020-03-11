@@ -29,7 +29,6 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 #### Widgets
 
 * :calendar: [theme-next-calendar](https://github.com/theme-next/theme-next-calendar): 一个简洁的hexo-next日历云插件。
-* :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): A utteranc comment system for NexT.
 * :cake: [hexo-cake-moon-menu](https://github.com/jiangtj-lab/hexo-cake-moon-menu): A new style for back2top button and scrollpercent.
 
 #### Fancy stuff
@@ -45,7 +44,9 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :gift: [hexo-next-share](https://github.com/theme-next/hexo-next-share): Content sharing services for NexT.
 
 #### Comment
+
 * :memo: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
+* :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): Utteranc.es comment system for NexT.
 
 ## Third-party
 
