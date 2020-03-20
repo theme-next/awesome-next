@@ -47,6 +47,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 * :memo: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
 * :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): Utteranc.es comment system for NexT.
+* :black_nib: [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): MiniValine is a simple and minimalist comment system based on Leancloud.
 
 ## Third-party
 
