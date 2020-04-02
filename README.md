@@ -18,7 +18,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 * :mag_right: [hexo-generator-searchdb](https://github.com/theme-next/hexo-generator-searchdb): Seach data generator plugin for Hexo.
 * :tada: [hexo-filter-emoji](https://github.com/theme-next/hexo-filter-emoji): GitHub emojis for Hexo!
 * :crystal_ball: [hexo-filter-optimize](https://github.com/theme-next/hexo-filter-optimize): A Hexo plugin that optimize the pages loading speed.
-* :mahjong: [hexo-filter-pangu](https://github.com/theme-next/hexo-filter-pangu): Server side pangu.js filter for Hexo. Add spaces between CJK characters and western characters.
+* :mahjong: [hexo-pangu](https://github.com/stevenjoezhang/hexo-pangu): Server side pangu.js filter for Hexo. Add spaces between CJK characters and western characters.
 * :100: [hexo-filter-mathjax](https://github.com/stevenjoezhang/hexo-filter-mathjax): Server side MathJax renderer plugin for Hexo.
 * :triangular_flag_on_post: [hexo-generator-indexed](https://github.com/stevenjoezhang/hexo-generator-indexed): Index generator plugin with more user-defined options.
 
